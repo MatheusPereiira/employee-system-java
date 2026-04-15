@@ -1,0 +1,38 @@
+# ==========================
+# Java
+# ==========================
+*.class
+*.jar
+*.war
+*.ear
+
+# Build folders
+bin/
+out/
+target/
+
+# Logs
+*.log
+hs_err_pid*
+
+# ==========================
+# IDEs
+# ==========================
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# ==========================
+# OS files
+# ==========================
+.DS_Store
+Thumbs.db
